@@ -25,11 +25,11 @@ I know a few languages, but I'm most comfortable with GLua and JavaScript.
   
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linventif&layout=normal)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)](https://git.io/streak-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linventif&layout=normal) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linventif&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)](https://git.io/streak-stats)
 
 <!-- [![trophy](https://github-profile-troph000) -->
 
