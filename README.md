@@ -2,7 +2,7 @@
 
 ## Contact
 
-You can contact me on discord at `linventif#0253`.
+You can contact me on discord at `linventif`.
 
 Or you can email me at `linventif@gmail.com`.
 
