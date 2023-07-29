@@ -1,5 +1,3 @@
-# Welcome to my GitHub profile!
-
 ## Contact
 
 You can contact me on discord at `linventif`.
