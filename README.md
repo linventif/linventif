@@ -1,25 +1,33 @@
+#Welcome!
+
+Hello there, I'm linventif, a passionate programmer and computer science student.
+I'm highly experienced with GLua and JavaScript and use a variety of tools and software daily.
+Here, you'll find a brief snapshot of my capabilities and daily tech-stack.
+
 ## Contact
 
 You can contact me on discord at `linventif`.
 
 Or you can email me at `linventif@gmail.com`.
 
+## Operating Systems
+
+Linux: Ubuntu since Ubuntu LTS 16.04
+
+Windows: Usage since Windows 10
+
 ## Languages
 
-I know a few languages, but I'm most comfortable with GLua and JavaScript.
+Daily Use: NodeJS,Java, GLua 
+Proficiencies: C/C++, Lua, Python
 
-### Language I use everyday
+## Tech-Stack
 
-- [x] GLua
-- [x] NodeJS
-- [x] Java
+IDEs: Visual Studio Code, IntelliJ IDEA
 
-### Languages I know
+Tools: Git, Docker, SSH, GitHub Copilot, Chat GPT-4
 
-- [x] C
-- [x] C++
-- [x] Lua
-- [x] Python
+Networking: Proxmox, 
   
 ## Stats
 
@@ -34,38 +42,3 @@ I know a few languages, but I'm most comfortable with GLua and JavaScript.
 ## Discord
 
 [![Linventif's Creations](https://i.imgur.com/Ro6EtDP.png)](https://linv.dev/discord)
-
-## Tools and Software I use everyday
-
-### IDEs
-
-- [x] Visual Studio Code
-
-### Tools
-
-- [x] Git
-- [x] Docker
-- [x] SSH
-
-### AI Tools
-
-- [x] GitHub Copilot
-- [x] Chat GPT-4
-
-### Networking
-
-- [x] Proxmox
-
-### Software
-
-- [x] Figma
-- [x] Trello
-- [x] GitHub
-- [x] Obsidian
-- [x] DataGrip
-
-## Tools and Software I know
-
-### IDEs
-
-- [x] IntelliJ IDEA
