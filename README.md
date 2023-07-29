@@ -1,8 +1,14 @@
-#Welcome!
+# Welcome!
 
-Hello there, I'm linventif, a passionate programmer and computer science student.
-I'm highly experienced with GLua and JavaScript and use a variety of tools and software daily.
-Here, you'll find a brief snapshot of my capabilities and daily tech-stack.
+Hello there, I'm linventif and I'm 18 years old.
+
+As a passionate programmer, computer science student, proficient system administrator, and founder of gaming communities, I have a diverse set of skills.
+
+My past experiences include managing game servers, creating a wealth of open source content for these communities, and operating my own data center with multiple Linux servers.
+
+Today, my expertise spans across front-end, back-end development, GLua, JavaScript, and system administration.
+
+Here, you'll find a brief snapshot of my multifaceted capabilities and daily tech-stack.
 
 ## Contact
 
@@ -12,7 +18,7 @@ Or you can email me at `linventif@gmail.com`.
 
 ## Operating Systems
 
-Linux: Ubuntu since Ubuntu LTS 16.04
+Linux: Ubuntu since Ubuntu LTS 10.04
 
 Windows: Usage since Windows 10
 
@@ -25,9 +31,9 @@ Proficiencies: C/C++, Lua, Python
 
 IDEs: Visual Studio Code, IntelliJ IDEA
 
-Tools: Git, Docker, SSH, GitHub Copilot, Chat GPT-4
+Tools: Git, Docker, SSH, NPM, GRUB, Node, GitHub Copilot, Chat GPT-4 ...
 
-Networking: Proxmox, 
+Networking: Proxmox, Wireshark
   
 ## Stats
 
