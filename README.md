@@ -29,7 +29,7 @@ Proficiencies: C/C++, Lua, Python 🏆
 
 IDEs: Visual Studio Code, IntelliJ IDEA 📝
 
-Tools: Git, Docker, SSH, NPM, GRUB, Node, GitHub Copilot, Chat GPT-4 ... 🔧
+Tools: Git, Docker, SSH, Node, GitHub Copilot, Chat GPT-4, Trello, Docusaurus ... 🔧
 
 Networking: Proxmox, Wireshark 🌐
   
