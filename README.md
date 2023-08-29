@@ -1,4 +1,4 @@
-# 🎉 Welcome!
+ # 🎉 Welcome!
 
 Hello there, I'm linventif 👋 and I'm 18 years old 🎂.
 
@@ -37,7 +37,7 @@ Networking: Proxmox, Wireshark 🌐
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linventif&layout=normal) -->
 
-![Anurag's GitHub stats](https://github-stats-4zx7fberj-linventif.vercel.app/api?username=linventif&show_icons=true)
+![Anurag's GitHub stats](https://stat-2-ic3sega3n-linventif.vercel.app/api?username=linventif&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)](https://git.io/streak-stats)
 
