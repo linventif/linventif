@@ -39,7 +39,7 @@ Networking: Proxmox, Wireshark 🌐
 
 ![Anurag's GitHub stats](https://stat-2-ic3sega3n-linventif.vercel.app/api?username=linventif&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)
 
 <!-- [![trophy](https://github-profile-troph000) -->
 
