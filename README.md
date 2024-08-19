@@ -18,7 +18,7 @@ Or you can email me at `linventif@gmail.com` 📧.
 
 ## 💻 Operating Systems
 
-Dual Boot: Ubuntu 22.04 - Windows 11
+Dual Boot: Ubuntu 24.04 - Windows 11
 
 ## 🖊️ Languages
 
