@@ -25,94 +25,11 @@ Dual Boot: Ubuntu 24.04 - Windows 11
 
 ## 🧰 Tech & Tools
 
-### Use in Professional Projects
-
-TypeScript
-HTML
-CSS
-JavaScript
-Lua
-SQL
-SolidJS
-Daisy UI
-NodeJS
-DiscordJS
-Tailwind CSS
-MariaDB
-Redis
-Git
-GitHub
-Docker
-Kubernetes
-GitKraken
-Sentry
-Chat GPT
-Postman
-Bruno
-Visual Studio Code
-DataGrip
-WebStorm
-PM2
-Windows
-Ubuntu
-Nginx
-Copilot
-Cloudflare
-Proxmox
-Kanban
-Figma
-Discord
-
-### Use in School Projects
-
-Go
-Java
-Matrix
-C
-Python
-IJava
-Express
-WordPress
-Java EE
-Java FX
-JQuery
-MySQL
-PostgresSQL
-SQLite
-GitLab
-JUnit
-Gherkin
-IntelliJ IDEA
-CLion
-Jupyter Notebook
-Android Studio
-SolidWorks
-Debian
-Apache
-Tomcat
-WireShark
-VirtualBox
-GNS3
-Scrum
-TDD
-Trello
-Genially
-
-### Use in Personal Project
-
-![test](http://gregoire-becue.me/tools/typescript.png)
-![test](http://gregoire-becue.me/tools/typescript.png)
-
-C++
-EJS
-PayPal
-Stripe
-Unreal Engine
-Source Engine
-Blender
-Fusion 360
-Sketchup
-Midjourney
+| Category              | Tech & Tools                                                                                                                                                                                                                                                                                     |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Professional Projects | TypeScript, HTML, CSS, JavaScript, Lua, SQL, SolidJS, Daisy UI, NodeJS, DiscordJS, Tailwind CSS, MariaDB, Redis, Git, GitHub, Docker, Kubernetes, GitKraken, Sentry, Chat GPT, Postman, Bruno, Visual Studio Code, DataGrip, WebStorm, PM2, Windows, Ubuntu, Nginx, Copilot, Cloudflare, Proxmox |
+| School Projects       | Kanban, Figma, Discord, Go, Java, Matrix, C, Python, IJava, Express, WordPress, Java EE, Java FX, JQuery, MySQL, PostgresSQL, SQLite, GitLab, JUnit, Gherkin, IntelliJ IDEA, CLion, Jupyter Notebook, Android Studio, SolidWorks, Debian, Apache, Tomcat, WireShark, VirtualBox, GNS3, Scrum     |
+| Personal Projects     | TDD, Trello, Genially, C++, EJS, PayPal, Stripe, Unreal Engine, Source Engine, Blender                                                                                                                                                                                                           |
   
 ## 📊 Stats
 
