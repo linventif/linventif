@@ -35,8 +35,6 @@ Dual Boot: Ubuntu 24.04 - Windows 11
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=linventif)
-
 ## 🤝 Discord
 
 [![Linventif's Creations](https://i.imgur.com/Ro6EtDP.png)](https://linv.dev/discord)
