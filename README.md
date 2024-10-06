@@ -1,20 +1,18 @@
  # 🎉 Welcome!
 
-Hello there, I'm linventif 👋 and I'm 19 years old 🎂.
+Hello there, I'm linventif 👋 and I'm 20 years old 🎂.
 
 As a passionate programmer 👨‍💻, computer science student 📚, proficient system administrator 🔧, and founder 🚀 of gaming communities, I have a diverse set of skills.
 
 My past experiences include managing game servers 🕹️, creating a wealth of open source content 📝 for these communities, and operating my own data center with multiple Linux servers 💻.
 
-Today, my expertise spans across front-end, back-end development, GLua, JavaScript, and system administration.
+Today, my expertise spans across Front-End, Back-End Development, CI/CD, Infrastructures and system administration.
 
 Here, you'll find a brief snapshot of my multifaceted capabilities and daily tech-stack 📋.
 
 ## 📬 Contact
 
-You can contact me on discord at `linventif` 👥.
-
-Or you can email me at `linventif@gmail.com` 📧.
+You can email me at `contact@gregoire-becue.me` 📧.
 
 ## 💻 Operating Systems
 
@@ -22,22 +20,102 @@ Dual Boot: Ubuntu 24.04 - Windows 11
 
 ## 🖊️ Languages
 
-Daily Use: NodeJS,Java, GLua ✅
-Proficiencies: C/C++, Lua, Python 🏆
+- English
+- Français
 
-## 🧰 Tech-Stack
+## 🧰 Tech & Tools
 
-IDEs: Visual Studio Code, IntelliJ IDEA 📝
+### Use in Professional Projects
 
-Tools: Git, Docker, SSH, Node, GitHub Copilot, Chat GPT-4, Trello, Docusaurus ... 🔧
+TypeScript
+HTML
+CSS
+JavaScript
+Lua
+SQL
+SolidJS
+Daisy UI
+NodeJS
+DiscordJS
+Tailwind CSS
+MariaDB
+Redis
+Git
+GitHub
+Docker
+Kubernetes
+GitKraken
+Sentry
+Chat GPT
+Postman
+Bruno
+Visual Studio Code
+DataGrip
+WebStorm
+PM2
+Windows
+Ubuntu
+Nginx
+Copilot
+Cloudflare
+Proxmox
+Kanban
+Figma
+Discord
 
-Networking: Proxmox, Wireshark 🌐
+### Use in School Projects
+
+Go
+Java
+Matrix
+C
+Python
+IJava
+Express
+WordPress
+Java EE
+Java FX
+JQuery
+MySQL
+PostgresSQL
+SQLite
+GitLab
+JUnit
+Gherkin
+IntelliJ IDEA
+CLion
+Jupyter Notebook
+Android Studio
+SolidWorks
+Debian
+Apache
+Tomcat
+WireShark
+VirtualBox
+GNS3
+Scrum
+TDD
+Trello
+Genially
+
+### Use in Personal Project
+
+C++
+EJS
+PayPal
+Stripe
+Unreal Engine
+Source Engine
+Blender
+Fusion 360
+Sketchup
+Midjourney
   
 ## 📊 Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)
 
-<!-- [![trophy](https://github-profile-troph000) -->
+[![trophy](https://github-profile-troph000)
 
 ## 🤝 Discord
 
