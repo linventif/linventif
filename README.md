@@ -118,7 +118,7 @@ Midjourney
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)
 
-![trophy](https://github-profile-troph000)
+![trophy](https://github-profile-trophy.vercel.app/?username=linventif)
 
 ## 🤝 Discord
 
