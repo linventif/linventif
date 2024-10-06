@@ -100,6 +100,9 @@ Genially
 
 ### Use in Personal Project
 
+![test](http://gregoire-becue.me/tools/typescript.png)
+![test](http://gregoire-becue.me/tools/typescript.png)
+
 C++
 EJS
 PayPal
@@ -115,7 +118,7 @@ Midjourney
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)
 
-[![trophy](https://github-profile-troph000)
+![trophy](https://github-profile-troph000)
 
 ## 🤝 Discord
 
