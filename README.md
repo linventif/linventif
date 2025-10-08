@@ -1,6 +1,6 @@
  # 🎉 Welcome!
 
-Hello there, I'm linventif 👋 and I'm 20 years old 🎂.
+Hello there, I'm linventif 👋 and I'm 21 years old 🎂.
 
 As a passionate programmer 👨‍💻, computer science student 📚, proficient system administrator 🔧, and founder 🚀 of gaming communities, I have a diverse set of skills.
 
@@ -34,6 +34,7 @@ Dual Boot: Ubuntu 24.04 - Windows 11
 ## 📊 Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linventif)
+[![trophy](https://github-profile-trophy.vercel.app/?username=linventif&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Discord
 
