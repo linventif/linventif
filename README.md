@@ -14,10 +14,6 @@ Here, you'll find a brief snapshot of my multifaceted capabilities and daily tec
 
 You can email me at `contact@gregoire-becue.me` 📧.
 
-## 💻 Operating Systems
-
-Dual Boot: Ubuntu 24.04 - Windows 11
-
 ## 🖊️ Languages
 
 - English
