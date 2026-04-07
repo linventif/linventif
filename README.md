@@ -10,10 +10,6 @@ Today, my expertise spans across Front-End, Back-End Development, CI/CD, Infrast
 
 Here, you'll find a brief snapshot of my multifaceted capabilities and daily tech-stack 📋.
 
-## 📬 Contact
-
-You can email me at `contact@gregoire-becue.me` 📧.
-
 ## 🖊️ Languages
 
 - English
